@@ -1,0 +1,15 @@
+# Markbook Project
+
+This project is a school project for my IB Computer Science class. If you wish to access the whole functioning project, here is the link: 
+<br>
+https://daniella.ihscompsci.com/markbook/markbookLogin.php
+<br>
+<br>
+If you would like trying to login as a teacher, here are the possible credentails (yes, all the passwords are password):<br>
+<img width="170" alt="Screenshot 2025-03-07 at 8 41 06 PM" src="https://github.com/user-attachments/assets/0096f729-0eb2-4b2e-a9ba-8a4b4066f7c4" />
+
+<br>
+<br> 
+Since there are so many students, I can't provide all of the logins here, however, here are a few if you would like to test them out.
+<br>
+<img width="165" alt="Screenshot 2025-03-07 at 8 42 26 PM" src="https://github.com/user-attachments/assets/02b3b092-7c3f-4bae-9918-b31cbdaa5664" />
