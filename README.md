@@ -10,6 +10,6 @@ If you would like trying to login as a teacher, here are the possible credentail
 
 <br>
 <br> 
-Since there are so many students, I can't provide all of the logins here, however, here are a few if you would like to test them out.
+Since there are so many students, I can't provide all of the logins here, however, here are a few if you would like to test them out. If you want all the logins email or message me and I'd be happy to send them over if you want to test it out.
 <br>
 <img width="165" alt="Screenshot 2025-03-07 at 8 42 26 PM" src="https://github.com/user-attachments/assets/02b3b092-7c3f-4bae-9918-b31cbdaa5664" />
