@@ -1,6 +1,8 @@
 # Markbook Project
 
-This project is a school project for my IB Computer Science class. If you wish to access the whole functioning project, here is the link: 
+This project is a school project for my IB Computer Science class. This is a place where teacher can update their grades for three different classes of students. They are able to see graphs and averages of how their students are doing. On the student end, students can see their grades for each class and each test in said classes. 
+
+# If you wish to access the whole functioning project, here is the link: 
 <br>
 https://daniella.ihscompsci.com/markbook/markbookLogin.php
 <br>
